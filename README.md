@@ -17,6 +17,6 @@ To go further on this subject, a set of tutorial will be available [here][3] (no
 [1]: ./TestKalmanMachine.py
 [2]: ./PaperResults.py
 [3]: ./Tutorial/README.md
-[4]: https://hal.inria.fr/hal-03086627 
+[4]: 
 
-\[1\]: [The companion code for the article "The continuous-discrete variational Kalman filter (CD-VKF), M. Lambert, S. Bonnabel, F. Bach".][4] 
+\[1\]: ["The continuous-discrete variational Kalman filter (CD-VKF), M. Lambert, S. Bonnabel, F. Bach".][4] 
