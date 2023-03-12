@@ -14,6 +14,6 @@ The source of the algorithms which implement the CD-VKF Kalman filter is availab
 [1]: ./TESTKalman_UniformMotion.py
 [2]: ./TESTKalman_ReentryCDC.py
 [3]: ./Tutorial/README.md
-[4]: ...
+[4]: https://hal.inria.fr/hal-03665666v2/document
 
 \[1\]: ["The continuous-discrete variational Kalman filter (CD-VKF), M. Lambert, S. Bonnabel, F. Bach".][4] 
